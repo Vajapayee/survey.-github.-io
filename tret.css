@@ -1,0 +1,110 @@
+body{
+    background-image:url(R.jpg);
+      color:#fff;
+    height: auto;
+    width: auto;
+    }
+    #survey{
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:70em;
+      margin:none;
+      padding:0;
+      background-color:	rgb(0, 0, 0, 0.5);
+      
+    }
+    .form-inner{
+      padding-top:1em;
+    }
+    #title {
+      text-align:center;
+      font-size:50px;
+      font-family: 'Bowlby One SC', cursive;
+    }
+    span{
+      
+      font-family: 'Bowlby One SC', cursive;
+    }
+    #discription{
+      text-align:center;
+      font-size:23px;
+      font-family: 'Sorts Mill Goudy', serif;
+    }
+    
+    #survey-form{
+      width:31em;
+      height:720px;
+      background-color:	rgb(0, 0, 0, 0.8);
+      margin-left: 200px;
+     margin: auto;
+     
+    }
+    #name ,#email ,#number, #dropdown,#searchname {
+        border-radius: 20px;
+      margin-left:5em;
+      margin-top:1em;
+      height:34px;
+      width:26em;
+      border:none;
+      padding: 10px ;
+    }
+    
+    #name-label, #email-label,#number-label , #dropdown-label , #select-label,#feed-label,#search{
+        font-family: 'Bowlby One SC', cursive;
+        float: left;
+        font-size: 25px;
+      margin-left:3em;
+    }
+    .marg{
+      margin-top:30px;
+     
+    
+    }
+    #first-check , #second-check , #thi-check {
+      margin-left:5em;
+     
+    }
+    
+    #dropdown{
+      margin-left:5em;
+      
+      
+    }
+    
+   
+    .text-area{
+      margin-left:5em;
+      height:6em;
+      width:25em;
+    }
+    #submit{
+        font-family: 'Bowlby One SC', cursive;
+        font-size: 15px;
+      margin-left:8em;
+      margin-top:1em;
+      height:45px;
+      width:10em;
+      border-radius:50px;
+      border:none;
+      background-color:rgb(62, 255, 136);
+      color:#fff;a
+      
+    }
+    #submit:hover{
+      background:#fff;
+      color:red;
+      cursor:pointer;
+    }
+    #net{
+        color:rgb(252, 249, 90);
+    }
+    #best{
+        text-align:center;
+        font-size: 40px;
+    }
+    #mar{
+        margin-left: 60px;
+    }
+   
